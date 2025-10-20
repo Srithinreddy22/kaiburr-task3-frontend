@@ -33,7 +33,7 @@ The UI uses these endpoints (proxied via `/api`):
 - PUT `/tasks/{id}` (execute)
 
 ### UI Screenshot
-![Kaiburr Tasks UI](./screenshots/ui.png)
+![Kaiburr Tasks UI](https://github.com/Srithinreddy22/kaiburr-task3-frontend/blob/main/ui.png)
 
 
 
