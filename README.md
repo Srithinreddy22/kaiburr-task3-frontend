@@ -32,6 +32,12 @@ The UI uses these endpoints (proxied via `/api`):
 - GET `/tasks/search?name=foo`
 - PUT `/tasks/{id}` (execute)
 
+### UI Screenshot
+![Kaiburr Tasks UI](./screenshots/ui.png)
+
+
+
+
 ### Curl examples
 ```bash
 # create
